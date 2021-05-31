@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* outline: 1px dotted red;  */
+    font-weight: 500;
+}
+
+.container{
+    margin: 0 auto;
+    width: 900px;
+    text-align: center;
+}
+
+body{
+    padding: 70px;
+}
+
+.col-sm-6{
+    margin-left: 220px;
+}
+
+form{
+    margin-top: 40px;
+}
+
+#low{
+    text-align: center;
+    background-color:red;
+    color: white;
+    margin: 10px 190px 20px 190px;
+    padding: 150px;
+    border: 2px solid black; 
+}
+
+h2{
+    margin: 10px;
+}
+
+#high {
+    text-align: center;
+    background-color:red;
+    color: white;
+    margin: 10px 190px 20px 190px;
+    padding: 150px;
+    border: 2px solid black; 
+
+}
+
+#correct {
+    text-align: center;
+    background-color:green;
+    color: white;
+    margin: 10px 190px 20px 190px;
+    padding: 150px;
+    border: 2px solid black; 
+}
